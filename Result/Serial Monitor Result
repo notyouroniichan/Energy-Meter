@@ -1,1 +1,97 @@
-
+sending...
+no data
+calling modbus packets
+sending...
+1
+4
+0
+9
+0
+4
+33
+203
+read begin
+valid data
+reading cp value
+1
+buff begin
+0
+0
+0
+0
+165
+229
+131
+40
+buff ends
+0
+0
+0
+0
+165
+229
+131
+40
+calling modbus packets
+sending...
+read begin
+valid data
+2
+buf begin
+67
+106
+132
+113
+buf ends
+reading vry
+calling modbus packets
+sending...
+read begin
+valid data
+3
+reading vyb
+calling modbus packets
+sending...
+read begin
+valid data
+4
+reading vbr
+calling modbus packets
+sending...
+read begin
+valid data
+5
+reading vrn
+calling modbus packets
+sending...
+read begin
+valid data
+6
+reading vyn
+calling modbus packets
+sending...
+read begin
+valid data
+7
+reading vbn
+calling modbus packets
+sending...
+read begin
+valid data
+8
+reading ir
+calling modbus packets
+sending...
+read begin
+valid data
+9
+reading iy
+calling modbus packets
+sending...
+read begin
+valid data
+10
+reading ib
+Sending Started
+the final data to be sent is
+&tid=702ff36c6c16daad5cbb65f457644f56ca9b844f&wh=0:0:0:0:165:229:131:40&vry=67:106:132:113&vyb=0:0:0:0&vbr=67:106:103:129&vrn=67:106:119:16&vyn=0:0:0:0&vbn=0:0:0:0&ir=0:0:0:0&iy=0:0:0:0&ib=0:0:0:0&me=vk
